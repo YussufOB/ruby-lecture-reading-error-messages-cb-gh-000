@@ -8,4 +8,5 @@ puts "The present federal government of Nigeria is #{nga_president}."
 
 james_bio = "larry kelvin"
 
-james_bio.lowercase
+james_bio.upcase
+
