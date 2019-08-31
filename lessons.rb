@@ -4,4 +4,4 @@
  puts first_name + last_name
 
 nga_president = "M. Buhari"
-puts "The present federa; government of Nigeria is #{nga_president}"
+puts "The present federal government of Nigeria is #{nga_president}"
