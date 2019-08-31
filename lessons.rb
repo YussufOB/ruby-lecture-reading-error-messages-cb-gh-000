@@ -6,8 +6,8 @@
 nga_president = "M. Buhari"
 puts "The present federal government of Nigeria is #{nga_president}."
 
-james_bio = "larry kelvin"
+sound ="squeak"
 
-james_bio.upcase
+sound.upcase
 
-james_bio
+sound
